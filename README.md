@@ -35,7 +35,7 @@ This repository contains an **implementation of a Transformer model** from scrat
 ### 📌 Future Enhancements
 - ✅ Implement Transformer XL for handling longer sequences.
 - ✅ Experiment with pre-trained models like BERT or GPT for comparison.
-- ✅ Optimize training with mixed-precision and distributed computing.
+
   
 💡 References
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
